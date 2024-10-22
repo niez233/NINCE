@@ -1,5 +1,7 @@
 # NINCE
 Improved Neural Interaction Networks Model for Cyberbullying Detection.
 
-![Poster_1014_00](https://github.com/user-attachments/assets/c2e9e70f-d5a5-4c65-8636-9c7c002fecae)
+We propose Neural Interaction Networks by Comment Embedding (NINCE) model to address the missing positional and segment information in comment encoding. 
+
+By focusing on these missing elements, we aim to enhance the model's ability to capture session distinctions and semantic nuances across sentences, improving representation learning in natural language processing tasks.
 
